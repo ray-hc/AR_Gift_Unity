@@ -113,7 +113,7 @@
 64-->/Users/raycrist/AndroidStudioProjects/AR-Gift-Unity/unityLibrary/src/main/AndroidManifest.xml:16:5-101
 65            android:name="unity.build-id"
 65-->/Users/raycrist/AndroidStudioProjects/AR-Gift-Unity/unityLibrary/src/main/AndroidManifest.xml:16:16-45
-66            android:value="1871089b-e2fc-4e78-bf94-7e84fe8e424c" />
+66            android:value="8f5c3b89-5d83-4423-adc7-a1fddd86845a" />
 66-->/Users/raycrist/AndroidStudioProjects/AR-Gift-Unity/unityLibrary/src/main/AndroidManifest.xml:16:46-98
 67        <meta-data
 67-->/Users/raycrist/AndroidStudioProjects/AR-Gift-Unity/unityLibrary/src/main/AndroidManifest.xml:17:5-88
